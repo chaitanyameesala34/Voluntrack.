@@ -45,6 +45,6 @@ Voluntrack aims to provide an organized and user-friendly volunteer management s
 
 9. Developed By
 
-Team Name: [Enter Your Team Name]
+Team Name: [Chaitanya]
 
-Course: [Enter Your Course Code]
+Course: [CSE326]
